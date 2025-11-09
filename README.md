@@ -17,7 +17,6 @@
   <a href="mailto:fabien.gelorse@epitech.eu" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=FabienGelorseDev&style=for-the-badge&color=brightgreen" alt="Profile views"/>
 </div>
 
 <br/>
@@ -26,7 +25,7 @@
 
 Full Stack Developer from France, currently studying at EPITECH. I'm passionate about building robust web applications and exploring new technologies. Always eager to learn and take on new challenges.
 
-- Currently working on exciting full-stack projects
+- Currently working on my portfolio website
 - Constantly learning new technologies and best practices
 - Ask me about Web Development, Backend APIs, or anything tech-related
 - Reach me at: **fabien.gelorse@epitech.eu**
@@ -41,11 +40,11 @@ Full Stack Developer from France, currently studying at EPITECH. I'm passionate 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
@@ -62,6 +61,7 @@ Full Stack Developer from France, currently studying at EPITECH. I'm passionate 
 <p>
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 </p>
 
 **Databases**
@@ -76,11 +76,11 @@ Full Stack Developer from France, currently studying at EPITECH. I'm passionate 
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
@@ -88,13 +88,13 @@ Full Stack Developer from France, currently studying at EPITECH. I'm passionate 
 ## GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FabienGelorseDev&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FabienGelorseDev&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FabienGelorseDev&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabienGelorseDev&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabienGelorseDev&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=FabienGelorseDev&theme=darkhub&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabienGelorseDev&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
+  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=FabienGelorseDev&theme=darkhub&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
@@ -109,8 +109,6 @@ Full Stack Developer from France, currently studying at EPITECH. I'm passionate 
   </picture>
 </div>
 
----
-
 <div align="center">
-  <i>Always open to interesting conversations and collaboration opportunities</i>
+  <img src="https://komarev.com/ghpvc/?username=FabienGelorseDev&style=for-the-badge&color=brightgreen" alt="Profile views"/>
 </div>
