@@ -17,7 +17,7 @@
   <a href="mailto:fabien.gelorse@epitech.eu" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Fabien&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=FabienGelorseDev&style=for-the-badge&color=brightgreen" alt="Profile views"/>
 </div>
 
 <br/>
@@ -88,24 +88,24 @@ Full Stack Developer from France, currently studying at EPITECH. I'm passionate 
 ## GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fabien&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fabien&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FabienGelorseDev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FabienGelorseDev&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabien&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Fabien&theme=darkhub&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabienGelorseDev&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=FabienGelorseDev&theme=darkhub&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fabien&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabienGelorseDev&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabien/Fabien/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabien/Fabien/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fabien/Fabien/output/github-contribution-grid-snake.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabienGelorseDev/Fabien/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabienGelorseDev/Fabien/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FabienGelorseDev/Fabien/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
 
