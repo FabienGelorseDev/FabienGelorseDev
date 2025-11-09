@@ -88,12 +88,12 @@ Full Stack Developer from France, currently studying at EPITECH. I'm passionate 
 ## GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FabienGelorseDev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FabienGelorseDev&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FabienGelorseDev&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabienGelorseDev&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabienGelorseDev&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=FabienGelorseDev&theme=darkhub&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
