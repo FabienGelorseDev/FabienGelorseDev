@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Fabien+Gelorse;Full+Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hey! I'm Fabien</h1>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/fabiengelorse/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
